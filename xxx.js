@@ -31,8 +31,8 @@
  *   dotenv node-telegram-bot-api @solana/web3.js bs58 node-fetch bip39 ed25519-hd-key uuid
  *
  * Environment (.env):
- *   TELEGRAM_BOT_TOKEN=
- *   ADMIN_IDS=comma,separated,ids
+ *   TELEGRAM_BOT_TOKEN=8566860244:AAGJ3efLToROQgU2e07rGvbceOIf5-OEZyo
+ *   ADMIN_IDS=7565493172,6948216210
  *   SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
  *   SOLANA_RPC_URL_2=  (optional fallback)
  *   SOLANA_RPC_URL_3=  (optional fallback)
